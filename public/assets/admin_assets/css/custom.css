@@ -1,0 +1,5 @@
+.navbar-dark {
+    color: rgba(255,255,255,.9);
+    background-color: rgb(51,0,51) !important;
+    border-bottom-color: rgba(255,255,255,.1);
+}

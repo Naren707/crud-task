@@ -1,0 +1,43 @@
+.rounded-round {
+		border-radius: 10px!important;
+	}
+	.border-slate-300 {
+		border-color: white;
+	}
+	.text-slate-300 {
+		color: white;
+	}
+	.btn-primary {
+		background-color: #ba2014;
+	}
+	a {
+    color: #ba2014;
+	}
+	.btn-primary:hover {
+		background-color: #c34141;
+	}
+	a:hover {
+		color: #c34141;		
+	}
+	.has-error .help-block{
+		color: #cc0000;
+	}
+	.has-success .help-block{
+		color: green;
+	}
+	.select2-container--default .select2-selection--single .select2-selection__rendered {
+		color: #444;
+		line-height: 15px;
+	}
+	.select2-selection--multiple .select2-selection__choice {
+		color: black;		   
+	}
+	.select2-container--default .select2-selection--single {   
+		height: 32px;
+	}
+	.hide{
+		display: none;
+	}
+	
+	
+	

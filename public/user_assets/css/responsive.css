@@ -1,0 +1,151 @@
+@media only screen and (max-width: 767px) {
+	.nav-link-decoration::after {
+		display:none;
+	}
+  
+  .mobile_hide
+	{
+		display:none;
+	}
+  .footer_bg
+  {
+	  text-align:center !important;
+  }
+  .image_1
+  {
+	position: relative;
+    right: -24%;
+    bottom: 0.2rem;
+  }
+  .image_1 a
+  {
+	position: relative;
+    bottom: 3.9rem;
+    color: #2F1346;
+  }
+  .image_2 
+  {
+	position: relative;
+	right: 6%;
+	bottom: 2.1rem;
+  }
+  .image_2 a
+  {
+	position: relative;
+    top: -3.9rem;
+    left: 8%;
+    color: #2F1346;
+  }
+  .image_3 
+  {
+    position: relative;
+    left: -38%;
+    top: 0rem;
+  }
+  .image_3  a
+  {
+	position: relative;
+    bottom: 3.9rem;
+    color: #2F1346;
+  }
+  .image_4 
+  {
+    position: relative;
+    left: -64%;
+    top: 1.9rem;
+  }
+  .image_4 a
+  {
+	position: relative;
+    bottom: 3.8rem;
+    color: #2F1346;
+  }
+  .footer_bg h5::after 
+  {
+	  display:none;
+  }
+  .nav-item .nav-link
+  {
+	  text-align:center;
+  }
+  .glow_effect
+  {
+		height: 274px;
+		width: 147px;
+		border-radius: 75%;
+		background-color: #fff;
+		position: absolute;
+		top: 6%;
+		left: 28%;
+		-webkit-animation: neon3 .5s ease-in-out infinite alternate;
+		-moz-animation: neon3 .5s ease-in-out infinite alternate;
+		animation: neon3 .5s ease-in-out infinite alternate;
+	}
+  .vip_btn
+  {
+		background-color: #250e3c;
+		color: #fff;
+		padding: 0.5rem 1rem;
+		margin: 0rem 1rem 1rem 1rem;
+  }
+  
+  .vipPageBg .banner_heading 
+  {
+  	margin-top: 0rem;
+  }
+  
+  .contactPageBg
+  {
+	  margin-bottom: 24rem;
+  }
+  .col_border
+  {
+	border-right:none;
+  }
+  .aboutPageBg
+  {
+	 margin-bottom: 213rem;
+  }
+  .about_border .text_alignment
+	{
+		text-align:left;
+	}
+ .commonHeader
+ {
+	 font-size: 1.8rem;
+ }
+ 
+ .socialLink i
+ {
+	 color:#843872;
+ }
+  /**/
+  
+	.users_bg
+	{
+		height: auto;
+		padding-bottom:0.1rem;
+	}
+	.clock_bg
+	{
+		height: auto;
+		padding-bottom:0.1rem;
+	}
+	.money_bg
+	{
+		height: auto;
+		padding-bottom:0.1rem;
+	}
+	.birthday_bg
+	{
+		height: auto;
+		padding-bottom:0.1rem;
+	}
+	
+	.purple_card .card-body
+	{
+   
+		height: 16rem;
+		padding: 0.25rem !important;
+	}
+}
